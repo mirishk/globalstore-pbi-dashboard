@@ -25,3 +25,10 @@ The data model was structured for optimal analysis in Power BI. Key tables and r
   - Cities
 
 ---
+
+## The Dashboard
+### View the Dashboard
+
+Click the link below to view the interactive dashboard:  
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWUyMDRiZTYtZjFjNy00NzY3LWIzOTItMjc2MzkwNWY2MDIxIiwidCI6ImI1YmY0ZjdkLTczN2ItNDdhOC1hOTZiLWI2N2I0M2I4MThmYiJ9&pageName=5ea9af189070b0b0b004)
+
