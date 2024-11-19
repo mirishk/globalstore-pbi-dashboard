@@ -13,7 +13,7 @@ The dataset, sourced from Kaggle, includes comprehensive information on:
 - Customer data  
 - Product categories  
 
-Click the link below to view the interactive dashboard:  
+Click the link below to view the dataset:  
 [Global Superstore Dataset](https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset)
 
 ## Data Model
